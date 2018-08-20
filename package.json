@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josdejong/lossless-json.git"
+    "url": "https://github.com/hm496/json-bigint-parser.git"
   },
   "scripts": {
     "benchmark": "node test/benchmark/run.js"
