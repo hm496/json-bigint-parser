@@ -1,0 +1,22 @@
+{
+  "name": "json-bigint-parser",
+  "version": "1.0.0",
+  "description": "Parse JSON bigint to string",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josdejong/lossless-json.git"
+  },
+  "scripts": {
+    "benchmark": "node test/benchmark/run.js"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "stringify",
+    "number",
+    "long",
+    "bignumber"
+  ],
+  "license": "MIT"
+}
